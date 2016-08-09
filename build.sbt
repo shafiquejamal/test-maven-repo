@@ -1,4 +1,4 @@
-name := """test_maven_repo"""
+name := """test-maven-repo"""
 
 version := "0.1-SNAPSHOT"
 
