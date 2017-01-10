@@ -1,6 +1,7 @@
 name := """test-maven-repo"""
 
-version := "0.1-SNAPSHOT"
+version := "0.0.1"
+organization := "com.eigenroute"
 
 scalaVersion := "2.11.8"
 
